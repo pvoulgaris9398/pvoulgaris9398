@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, my name is Pete Voulgaris 👋. I am a senior principle/team lead/software architect/engineer with many interests.
 
 <!--
 **pvoulgaris9398/pvoulgaris9398** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
