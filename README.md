@@ -1,5 +1,8 @@
 ### Hello, my name is Pete Voulgaris 👋. I am a senior principle/team lead/software architect/engineer with many interests.
 
+- 🔭 I’m currently working on Portfolio Optimization in C# ...
+- 🌱 I’m currently up-skilling and learning Rust, C++ and cloud concepts ...
+
 <!--
 **pvoulgaris9398/pvoulgaris9398** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
