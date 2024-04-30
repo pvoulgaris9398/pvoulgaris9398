@@ -1,6 +1,6 @@
 ### Hello, my name is Pete Voulgaris 👋. I am a senior principle/team lead/software architect/engineer with many interests.
 
-- 🔭 I’m currently working on Portfolio Optimization in C# ...
+- 🔭 I’m currently working for a large investment management firm in the Trade Compliance space, doing .NET development (mix of Framework and Core), Web Services, AWS lambdas, SNS, SQS, etc.
 - 🌱 I’m currently interesting in expanding my skills in F#, Rust, C++, Python and R (to name a few) ...
 
 <!--
