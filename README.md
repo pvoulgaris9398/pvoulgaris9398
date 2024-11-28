@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working for a large investment management firm in the Investment & Trade Compliance space, doing C# .NET development (mix of Framework and Core), Web Services, AWS lambdas, step functions, SNS, SQS, SQL Server, PostgreSQL, etc.
 - 🌱 I’m currently interesting in expanding my skills in F#, Rust, C++, Python, JavaScript, TypeScript and R (to name a few 😄😄😄)...but seriously, I have a lot of interests and love learning new things!
+- I've recently installed Linux Mint Cinnamon on an old laptop (overwriting Windows) and so far, it's been great! So much less cruft and useless background processes eating-up resources, than my usual Windows machine(s).
 
 <!--
 **pvoulgaris9398/pvoulgaris9398** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
